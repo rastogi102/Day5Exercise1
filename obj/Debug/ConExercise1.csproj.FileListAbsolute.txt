@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\bin\Debug\ConExercise1.exe.config
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\bin\Debug\ConExercise1.exe
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\bin\Debug\ConExercise1.pdb
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\obj\Debug\ConExercise1.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\obj\Debug\ConExercise1.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\obj\Debug\ConExercise1.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\obj\Debug\ConExercise1.exe
+F:\Training Stuff\Dot netTraining\DAY-5\Exercise1\ConExercise1\ConExercise1\obj\Debug\ConExercise1.pdb
